@@ -68,3 +68,22 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Weather App (React) is a weather forecasting application built with React, using the OpenWeather API to fetch real-time weather data. The app provides users with an interactive interface to view the current weather conditions and forecasts for any city of their choice.
+
+Features:
+Displays current weather, temperature, humidity, and wind speed.
+
+Allows users to search for weather information by city name.
+
+Provides weather forecast for the next few days.
+
+Built using React and Material UI for a responsive, user-friendly interface.
+
+Technologies Used:
+React
+
+OpenWeather API
+
+Material UI
+
+JavaScript (ES6+)

@@ -1,0 +1,35 @@
+{
+    "الكبرى":  "الكبرى",
+    "الصغرى":  "الصغرى",
+    "اختار المدينة":  "اختار المدينة",
+    "مدينة القاهرة": "القاهرة",
+    "مدينة الاسكندرية": "الاسكندرية",
+    "مدينة نيويورك": "نيويورك",
+    "مدينة الرياض": "الرياض",
+    "Cairo": "القاهرة",
+    "Alexandria": "الاسكندرية",
+    "New York": "نيويورك",
+    "Riyadh": "الرياض",
+    "اختار اللغة": "En",
+    "light intensity drizzle": "رذاذ خفيف الشدة",
+    "drizzle": "رذاذ",
+    "heavy intensity drizzle": "رذاذ كثيف",
+    "light intensity drizzle rain": "رذاذ خفيف من المطر",
+    "drizzle rain": "رذاذ المطر",
+    "heavy intensity drizzle rain": "رذاذ كثيف من المطر",
+    "shower rain and drizzle": "زخات المطر والرذاذ",
+    "heavy shower rain and drizzle": "أمطار غزيرة ورذاذ",
+    "shower drizzle": "رذاذ المطر",
+    "clear sky": "سماء صافية",
+    "few clouds": "سحب قليلة",
+    "scattered clouds": "غيوم متفرقة",
+    "thunderstorm": "غيوم متكسرة",
+    "broken clouds": "عاصفة رعدية",
+    "shower rain": "زخات المطر",
+    "snow": "مطر",
+    "mist": "شَبُّورَة",
+    "overcast clouds":	"غيوم ملبدة بالغيوم"
+
+
+
+}
