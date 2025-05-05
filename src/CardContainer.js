@@ -75,7 +75,7 @@ export default function CardContainer({ langDir }) {
     // Use Effect //
     useEffect(() => {
         i18n.changeLanguage(lang)
-    }, [lang])
+    }, [lang, i18n])
 
 
     useEffect(() => {
