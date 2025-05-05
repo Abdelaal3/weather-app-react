@@ -150,7 +150,7 @@ export default function CardContainer({ langDir }) {
     const IconUrl = `https://openweathermap.org/img/wn/${Data.icon}@2x.png`
 
     return (
-        < div dir={lang === 'ar' ? 'rtl' : 'ltr'} style={{ height: '100vh', display: 'flex', justifyContent: 'center', alignItems: 'center', flexDirection: 'column' , }}>
+        < div dir={lang === 'ar' ? 'rtl' : 'ltr'} style={{ height: '100vh', display: 'flex', justifyContent: 'center', alignItems: 'center', flexDirection: 'column', }}>
 
 
             {/* Card */}
