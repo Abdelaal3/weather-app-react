@@ -5,7 +5,6 @@ import 'moment/min/locales'
 // Translations//
 import { useTranslation } from 'react-i18next';
 // Material UI Components //
-import Stack from '@mui/material/Stack';
 import Button from '@mui/material/Button';
 import Typography from '@mui/material/Typography';
 import WbCloudyIcon from '@mui/icons-material/WbCloudy';
@@ -76,7 +75,7 @@ export default function CardContainer({ langDir }) {
     // Use Effect //
     useEffect(() => {
         i18n.changeLanguage(lang)
-    }, [lang])
+    }, [])
 
 
     useEffect(() => {
@@ -191,7 +190,7 @@ export default function CardContainer({ langDir }) {
                         <Typography sx={{ textAlign: 'right', fontWeight: '500' }} variant="h1">
                             {Data.Tempreature}°
 
-                            <img src={IconUrl} />
+                            <img src={IconUrl} alt='weather icon' />
 
                         </Typography>
                         <Typography sx={{ textAlign: lang === 'ar' ? 'right' : 'left' }} variant="h6">
