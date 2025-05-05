@@ -1,8 +1,6 @@
-import logo from './logo.svg';
 import './App.css';
 import { createTheme, ThemeProvider, styled } from '@mui/material/styles';
 import CardContainer from './CardContainer';
-import Typography from '@mui/material/Typography';
 
 
 //Material Ui //
